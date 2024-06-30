@@ -1,0 +1,5 @@
+problem,granularity,scope,feature,classifier,parameters,val_acc,val_prec,val_rec,val_gmean,val_f1,val_mcc,train_time,val_time,test_acc,test_prec,test_rec,test_gmean,test_f1,test_mcc,test_time
+cvss3_severity,method,whole,codebert,lgbm,300-100,0.511,0.378,0.31,0.343,0.3,0.163,27.051,0.01,0.508,0.373,0.288,0.328,0.28,0.102,0.009
+cvss3_severity,method,whole,subwords,lgbm,300-100,0.484,0.612,0.331,0.45,0.352,0.124,351.183,0.052,0.547,0.39,0.341,0.365,0.349,0.197,0.046
+cvss3_severity,method,whole,codebert,rf,200-300,0.494,0.38,0.294,0.334,0.27,0.135,3.394,0.032,0.488,0.484,0.269,0.361,0.256,0.051,0.026
+cvss3_severity,method,whole,subwords,rf,200-300,0.487,0.348,0.293,0.319,0.275,0.129,3.087,0.111,0.542,0.449,0.313,0.375,0.316,0.152,0.117
