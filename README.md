@@ -9,6 +9,7 @@ Due to the large size of the datasets, we have stored them in Google Drive: [Dat
 
 if you want to use the original dataset(MegaVul), you can download it from the following link:https://github.com/Icyrockton/MegaVul
 
+We provide a [code file](https://github.com/1-001/PT-SVA/blob/main/data%20crawling%20and%20processing/scrape_CVSS_v3.py) for crawling ``CVSS v3`` data, and on this basis, you can crawl other data you need.
 ## Requirements
 You can install the required dependency packages for our environment by using the following command: ``pip install - r requirements.txt``.
 
