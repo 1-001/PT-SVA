@@ -9,12 +9,15 @@ Due to the large size of the datasets, we have stored them in Google Drive: [Dat
 
 if you want to use the original dataset(MegaVul), you can download it from the following link:https://github.com/Icyrockton/MegaVul
 
+## Requirements
+You can install the required dependency packages for our environment by using the following command: ``pip install - r requirements.txt``.
+
 ## Reproducing the experiments:
-1.Use the py file under "data crawling and processing" for data processing. Of course, you can directly use the dataset we have processed: [Google Drive Link](https://drive.google.com/drive/folders/1P42XsDWeMqAW33oS0gGamXEqxYiMjO5i?usp=drive_link)
+1.Use the py file under ``data crawling and processing`` for data processing. Of course, you can directly use the ``dataset`` we have processed: [Google Drive Link](https://drive.google.com/drive/folders/1P42XsDWeMqAW33oS0gGamXEqxYiMjO5i?usp=drive_link)
 
-2.Run prompt_code&desc.py. After running, you can retrain the model and obtain results.
+2.Run ``prompt_code&desc.py``. After running, you can retrain the ``model`` and obtain results.
 
-3.You can find the implementation code for the RQ1-RQ4 section and the Discussion section experiments in the corresponding folders.
+3.You can find the implementation code for the ``RQ1-RQ4`` section and the ``Discussion`` section experiments in the corresponding folders. The ``results`` obtained from the experiment are also in the ``corresponding folder``.
 
 ## About model.
 You can obtain our saved model and reproduce our results through the link:[Model Link](https://drive.google.com/file/d/1RdWlH40EgAkyJ4QNGWwH1ZiQe1qGgG06/view?usp=sharing).
