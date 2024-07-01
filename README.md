@@ -2,6 +2,13 @@
 ## Approach
 ![](https://github.com/1-001/PT-SVA/blob/main/Fig/framework.png)
 ## About dataset.
-Due to the large size of the datasets, we have stored them in OneDrive:[OneDrive Link](https://1drv.ms/f/s!Am_tkausg8Txa_rcjVGd3K1H3O8)
+Due to the large size of the datasets, we have stored them in Google Drive: [Google Drive Link](https://drive.google.com/drive/folders/1P42XsDWeMqAW33oS0gGamXEqxYiMjO5i?usp=drive_link)
 
 if you want to use the original dataset(MegaVul), you can download it from the following link:https://github.com/Icyrockton/MegaVul
+
+## Reproducing the experiments:
+1.Use the py file under "data crawling and processing" for data processing. Of course, you can directly use the dataset we have processed: [Google Drive Link](https://drive.google.com/drive/folders/1P42XsDWeMqAW33oS0gGamXEqxYiMjO5i?usp=drive_link)
+
+2.Run prompt_code&desc.py. After running, you can retrain the model and obtain results.
+
+3.You can find the implementation code for the RQ1-RQ4 section and the Discussion section experiments in the corresponding folders.
