@@ -1,4 +1,7 @@
-# PT-SVA:Improving Prompt Tuning-based Software Vulnerability Assessment by Fusing Source Code and Vulnerability Description
+# Improving Prompt Tuning-based Software Vulnerability Assessment by Fusing Source Code and Vulnerability Description
+
+This is the source code to the paper "Improving Prompt Tuning-based Software Vulnerability Assessment by Fusing Source Code and Vulnerability Description". Please refer to the paper for the experimental details.
+
 ## Approach
 ![](https://github.com/1-001/PT-SVA/blob/main/Fig/framework.png)
 ## About dataset.
