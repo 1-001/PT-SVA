@@ -13,5 +13,5 @@ if you want to use the original dataset(MegaVul), you can download it from the f
 
 3.You can find the implementation code for the RQ1-RQ4 section and the Discussion section experiments in the corresponding folders.
 
-## About dataset.
+## About model.
 You can obtain our saved model and reproduce our results through the link:[Model Link](https://drive.google.com/file/d/1RdWlH40EgAkyJ4QNGWwH1ZiQe1qGgG06/view?usp=sharing).
