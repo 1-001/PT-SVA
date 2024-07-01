@@ -21,4 +21,4 @@ You can install the required dependency packages for our environment by using th
 3.You can find the implementation code for the ``RQ1-RQ4`` section and the ``Discussion`` section experiments in the corresponding folders. The ``results`` obtained from the experiment are also in the ``corresponding folder``.
 
 ## About model.
-You can obtain our saved model and reproduce our results through the link:[Model Link](https://drive.google.com/file/d/1RdWlH40EgAkyJ4QNGWwH1ZiQe1qGgG06/view?usp=sharing).
+You can obtain our ``saved model`` and reproduce our results through the link:[Model Link](https://drive.google.com/file/d/1RdWlH40EgAkyJ4QNGWwH1ZiQe1qGgG06/view?usp=sharing).
